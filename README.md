@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://icons8.com/icon/31184/stocks" width="100" />
+  <img src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/100/external-markdown-a-lightweight-markup-language-with-plain-text-formatting-syntax-logo-duo-tal-revivo.png" width="100" />
 </p>
 <p align="center">
     <h1 align="center">STOCK-PREDICTION-MODEL</h1>
