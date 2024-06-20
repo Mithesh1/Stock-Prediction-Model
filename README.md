@@ -79,15 +79,8 @@ Jupyter Notebook for model training and evaluation.
 
 ##  Modules
 
-<details closed><summary>.</summary>
+<details closed><summary>Stock Predictor </summary> <summary>Contains the main application files including the Keras model, application script, and Jupyter Notebook.</summary>
 
-| File                                                                                                | Summary                                      |
-| ---                                                                                                 | ---                                          |
-| [requirements.txt](https://github.com/Mithesh1/Stock-Prediction-Model/blob/master/requirements.txt) |  |
-
-</details>
-
-<details closed><summary>Contains the main application files including the Keras model, application script, and Jupyter Notebook.</summary>
 
 | File                                                                                                               | Summary                                                     |
 | ---                                                                                                                | ---                                                         |
