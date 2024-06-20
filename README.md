@@ -142,8 +142,8 @@ Interact with the Web App: Use the web interface to input stock data and generat
 ##  Project Roadmap
 
 - [X] `► Process Data`
-- [ ] `► Build a prediction model`
-- [ ] `► Host it as a web app`
+- [X] `► Build a prediction model`
+- [X] `► Host it as a web app`
 
 ---
 
