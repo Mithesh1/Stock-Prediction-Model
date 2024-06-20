@@ -51,13 +51,15 @@
 
 ##  Overview
 
-HTTP error 401 for prompt `overview`
+The Stock Prediction Model uses historical stock data to predict future prices. It is implemented as a web application, allowing users to interactively input stock data and receive predictions.
 
 ---
 
 ##  Features
 
-HTTP error 401 for prompt `features`
+Predicts future stock prices based on historical data.
+Web interface for easy interaction.
+Jupyter Notebook for model training and evaluation.
 
 ---
 
@@ -81,11 +83,11 @@ HTTP error 401 for prompt `features`
 
 | File                                                                                                | Summary                                      |
 | ---                                                                                                 | ---                                          |
-| [requirements.txt](https://github.com/Mithesh1/Stock-Prediction-Model/blob/master/requirements.txt) | HTTP error 401 for prompt `requirements.txt` |
+| [requirements.txt](https://github.com/Mithesh1/Stock-Prediction-Model/blob/master/requirements.txt) |  |
 
 </details>
 
-<details closed><summary>StockPredictor</summary>
+<details closed><summary>Contains the main application files including the Keras model, application script, and Jupyter Notebook.</summary>
 
 | File                                                                                                               | Summary                                                     |
 | ---                                                                                                                | ---                                                         |
