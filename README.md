@@ -44,8 +44,7 @@
 >   - [ Tests](#-tests)
 > - [ Project Roadmap](#-project-roadmap)
 > - [ Contributing](#-contributing)
-> - [ License](#-license)
-> - [ Acknowledgments](#-acknowledgments)
+
 
 ---
 
@@ -97,7 +96,7 @@ Jupyter Notebook for model training and evaluation.
 
 Ensure you have the following dependencies installed on your system:
 
-* **JupyterNotebook**: `version x.y.z`
+* **JupyterNotebook**: `version 7.2.1`
 
 ###  Installation
 
@@ -124,34 +123,38 @@ pip install -r requirements.txt
 Use the following command to run Stock-Prediction-Model:
 
 ```sh
-jupyter nbconvert --execute notebook.ipynb
+python app.py
+```
+```sh
+Open your web browser and go to http://127.0.0.1:5000/.
 ```
 
-###  Tests
+###  Usage
 
 To execute tests, run:
 
 ```sh
-pytest notebook_test.py
+Ensure all dependencies are installed: Use the provided requirements.txt file to install necessary Python libraries.
+Run the Application: Start the web application by running app.py as described in the setup instructions.
+Interact with the Web App: Use the web interface to input stock data and generate predictions.
 ```
 
 ---
 
 ##  Project Roadmap
 
-- [X] `► INSERT-TASK-1`
-- [ ] `► INSERT-TASK-2`
-- [ ] `► ...`
+- [X] `► Process Data`
+- [ ] `► Build a prediction model`
+- [ ] `► Host it as a web app`
 
 ---
 
 ##  Contributing
 
-Contributions are welcome! Here are several ways you can contribute:
+Contributions are welcome! Heres how you can contribute:
 
 - **[Submit Pull Requests](https://github.com/Mithesh1/Stock-Prediction-Model/blob/main/CONTRIBUTING.md)**: Review open PRs, and submit your own PRs.
-- **[Join the Discussions](https://github.com/Mithesh1/Stock-Prediction-Model/discussions)**: Share your insights, provide feedback, or ask questions.
-- **[Report Issues](https://github.com/Mithesh1/Stock-Prediction-Model/issues)**: Submit bugs found or log feature requests for Stock-prediction-model.
+odel.
 
 <details closed>
     <summary>Contributing Guidelines</summary>
@@ -182,16 +185,3 @@ Once your PR is reviewed and approved, it will be merged into the main branch.
 
 ---
 
-##  License
-
-This project is protected under the [SELECT-A-LICENSE](https://choosealicense.com/licenses) License. For more details, refer to the [LICENSE](https://choosealicense.com/licenses/) file.
-
----
-
-##  Acknowledgments
-
-- List any resources, contributors, inspiration, etc. here.
-
-[**Return**](#-quick-links)
-
----
